@@ -24,6 +24,8 @@ Netflix-Movies-And-TV-Shows/
 ├── netflix_titles.csv              # Dataset from Kaggle
 ├── Dashboard.png                  # Dashboard snapshot
 └── README.md                       # Project documentation
+
+```
 ---
 
 ## 📊 Tools Used
