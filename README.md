@@ -25,6 +25,7 @@ Netflix-Movies-And-TV-Shows/
 ├── Dashboard.png                  # Dashboard snapshot
 └── README.md                       # Project documentation
 ---
+
 ## 📊 Tools Used
 
 - **Power BI** – For dashboard design and insights  
