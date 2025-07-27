@@ -22,7 +22,7 @@ A comprehensive Power BI project analyzing Netflix's global catalog of movies an
 Netflix-Movies-And-TV-Shows/
 ├── NetflixDashboard.pbix           # Power BI file
 ├── netflix_titles.csv              # Dataset from Kaggle
-├── Dashboard.png                  # Dashboard snapshot
+├── Dashboard.png                   # Dashboard snapshot
 └── README.md                       # Project documentation
 
 ```
